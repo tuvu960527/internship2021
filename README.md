@@ -1,2 +1,3 @@
-# internship2021
-Association between the consumption of processed meat and the metabolic syndrome
+# Internship 2021
+## PROJECT: ASSOCIATION BETWEEN THE CONSUMPTION OF PROCESSED MEAT AND THE METABOLIC SYNDROME
+
